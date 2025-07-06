@@ -1,1 +1,1 @@
-# Smart-Agro
+The app offers real-time solutions for weather forecasting, crop recommendation, fertilizer optimization, pest detection, and disease identification. Leveraging Python, Flask, TensorFlow, and Scikit-learn, the platform empowers farmers with accurate insights, promoting informed decision-making for increased crop yield, resource efficiency, and sustainable farming practices.
